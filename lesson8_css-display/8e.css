@@ -1,0 +1,43 @@
+.head {
+    font-family: Arial;
+    font-size: 22px;
+    margin-top: 0px;
+    margin-bottom: 14px;
+}
+
+input {
+    font-family: Arial;
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 5px;
+    border: none;
+    background-color: rgb(232, 232, 232);
+    color: rgb(120, 120, 120);
+    font-size: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    width: 200px;
+}
+
+.destination {
+    margin-bottom: 14px;
+}
+
+button {
+    color: white;
+    background-color: black;
+    border: none;
+    font-size: 10px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    margin-right: 8px;
+}
+
+.schedule {
+    color: black;
+    background-color: rgb(232, 232, 232);
+}

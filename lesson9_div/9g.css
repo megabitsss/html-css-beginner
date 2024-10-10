@@ -1,0 +1,44 @@
+.facebook {
+    font-family: Arial;
+    width: 200px;
+    height: 320px;
+    border: 1px solid rgb(199, 199, 199);
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.25);
+    display: inline-block;
+    margin-right: 6px;
+}
+
+.facebook p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+.facebook img {
+    width:200px;
+}
+
+.facebook .facebook-name {
+    font-size: 22px;
+    margin-bottom: 4px;
+    font-weight: bold;
+    margin-top: 6px;
+    margin-left: 8px;
+}
+
+
+.facebook .facebook-mutual {
+    font-size: 16px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+}
+
+.facebook button {
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgb(53, 127, 231);
+    color: white;
+    border: none;
+    margin-left: 6px;
+    border-radius: 6px;
+}

@@ -1,0 +1,91 @@
+.search-bar {
+    font-size: 16px;
+    padding: 10px 40px 10px 10px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+    border-width: 0.5px;
+    margin-bottom: 50px;
+}
+
+.search-bar-shadowed {
+    font-size: 16px;
+    padding: 10px 40px 10px 10px; /* top, right, bottom, left (clockwise) */
+    width: 500px;
+    border: none;
+    border-radius: 25px;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2);
+    margin-bottom: 50px;
+}
+
+p {
+    font-family: Arial;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.linkedin-email {
+    color: rgb(125, 124, 124);
+    margin-bottom: 10px;
+    font-size: 16px;
+}
+
+.linkedin-bar {
+    width: 400px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border-radius: 5px;
+    border-style: solid;
+    color: black;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+.linkedin-agreement {
+    font-size: 16px;
+    color: rgb(82, 81, 81);
+    margin-bottom: 20px;
+}
+
+.linkedin-agree {
+    background-color: rgb(50, 103, 189);
+    color: white;
+    border: none;
+    width: 400px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 30px;
+    margin-bottom: 50px;
+}
+
+.authour {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 25px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.whats {
+    font-size: 14px;
+    font-family: Arial;
+    border: none;
+    vertical-align: middle;
+}
+
+.tweet {
+    font-size: 14px;
+    font-family: Arial;
+    border: none;
+    background-color: rgb(42, 151, 224);
+    color: white;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 16px;
+    font-weight: bold;
+    vertical-align: middle;
+}

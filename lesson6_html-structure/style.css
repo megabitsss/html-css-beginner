@@ -1,0 +1,26 @@
+p {
+    font-family: Arial;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-size: 15px;
+    color: black;
+}
+
+.authour {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+.span-authour {
+    color: rgb(132, 132, 132);
+    font-weight: normal;
+}
+
+.content {
+    width: 470px;
+    margin-bottom: 20px;
+}
+
+.comment-span {
+    color: rgb(46, 157, 216);
+}

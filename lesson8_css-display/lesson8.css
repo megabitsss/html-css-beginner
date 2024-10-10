@@ -1,0 +1,89 @@
+.name,
+.email {
+    display: block;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.paragraph {
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle
+}
+
+.google-logo {
+    height: 100px;
+    width: 200px;
+    object-fit: cover;
+    object-position: center;
+    display: block;
+    margin-left: 80px;
+}
+
+.google-bar {
+    width: 350px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.2);
+    border: none;
+    border-radius: 18px;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.first-name1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    width: 148px;
+    display: inline-block;
+}
+
+.first-name2 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    width: 148px;
+    display: inline-block;
+}
+
+.email-bar {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(200, 200, 200);
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-size: 16px;
+    border-radius: 8px;
+    margin-bottom: 12px;
+    width: 300px;
+    display: block;
+}
+
+.signup {
+    background-color: rgb(76, 118, 243);
+    border: none;
+    color: white;
+    font-size: 14px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    width: 230px;
+    border-radius: 10px;
+}

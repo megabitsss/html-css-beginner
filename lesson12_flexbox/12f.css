@@ -1,0 +1,35 @@
+body {
+    font-family: Arial;
+}
+
+.flexbox {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(133, 48, 198);
+    padding: 12px;
+}
+
+.home {
+    color: white;
+}
+
+input {
+    padding-left: 12px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    border-radius: 12px;
+    border: none;
+    flex: 1;
+}
+
+button {
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    background-color: rgb(133, 48, 198);
+    border: white 1px solid;
+    color: white;
+}
+
