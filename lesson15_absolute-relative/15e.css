@@ -1,0 +1,52 @@
+* {
+    font-family: Arial;
+}
+
+.product {
+    margin: 100px;
+    width: 800px;
+    height: 800px;
+    position: relative;
+}
+
+.shirt {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: center;
+}
+
+.discount {
+    position: absolute;
+    right: 0;
+    top: 20px;
+    font-size: 40px;
+    color: white;
+    background-color: black;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.add-box {
+    position: absolute;
+    background-color: rgba(255, 255, 255, 0.85);
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.add-button {
+    font-size: 50px;
+    background-color: white;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-width: 4px;
+}
